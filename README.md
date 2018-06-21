@@ -6,7 +6,8 @@
 This is project enables you to produce all the basic notes in a piano when the mouse hovers over the tiles.
 
 
-
+</br>
+</br>
 
 **Prerequisites:** 
 
@@ -18,7 +19,8 @@ Knowledge in HTML, CSS, JavaScript, JQuery.
 
 
 
-
+</br>
+</br>
 **You can contribute by:** 
 
 
