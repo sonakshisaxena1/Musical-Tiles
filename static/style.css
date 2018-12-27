@@ -5,11 +5,9 @@ body {
 }
 
 #instrument {
-	 padding: 10px 10px 10px 10px;
-   height: 116px;
+    padding: 10px 10px 10px 10px;
+    height: 116px;
     width: 812px;
-    padding-right: 10px;
-    padding-top: 50px;
     margin: auto;
     position: absolute;
     top: 0; left: 0; bottom: 0; right: 0;
@@ -17,7 +15,7 @@ body {
 }
 
 .tile {
-	width: 100px;
+    width: 100px;
     height: 100px;
     margin-left: 10px;
     margin-top: 10px;
