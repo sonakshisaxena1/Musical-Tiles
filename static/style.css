@@ -1,13 +1,13 @@
 body {
-	
+
     background-color: black;
+
 }
 
 #instrument {
-	height: 116px;
+    padding: 10px 10px 10px 10px;
+    height: 116px;
     width: 812px;
-    padding-right: 10px;
-    padding-top: 50px;
     margin: auto;
     position: absolute;
     top: 0; left: 0; bottom: 0; right: 0;
@@ -15,7 +15,7 @@ body {
 }
 
 .tile {
-	width: 100px;
+    width: 100px;
     height: 100px;
     margin-left: 10px;
     margin-top: 10px;
@@ -29,13 +29,13 @@ body {
 }
 
 #c:active {
-    background-color:#db1d2d;   
+    background-color:#db1d2d;
 }
 
 #c {
     background-color: #3e181b;
     border: 3px solid #db1d2d;
-    
+
 }
 
 
@@ -45,7 +45,7 @@ body {
 }
 
 #d:active {
-    background-color:#f0421c;   
+    background-color:#f0421c;
 }
 
 #d {
@@ -60,7 +60,7 @@ body {
 }
 
 #e:active {
-    background-color:#fec02d;   
+    background-color:#fec02d;
 }
 
 #e {
@@ -75,7 +75,7 @@ body {
 }
 
 #f:active {
-    background-color:#20d071;   
+    background-color:#20d071;
 }
 
 #f {
@@ -90,7 +90,7 @@ body {
 }
 
 #g:active {
-    background-color:#1a9ddb;   
+    background-color:#1a9ddb;
 }
 
 #g {
@@ -105,13 +105,13 @@ body {
 }
 
 #a:active {
-    background-color:#a13fad;   
+    background-color:#a13fad;
 }
 
 #a {
     background-color: #331f35;
     border: 3px solid #a13fad;
-} 
+}
 
 
 #b:hover {
@@ -120,11 +120,10 @@ body {
 }
 
 #b:active {
-    background-color:#f26fd4;   
+    background-color:#f26fd4;
 }
 
 #b {
     background-color: #43293d;
     border: 3px solid #f26fd4;
 }
-    
